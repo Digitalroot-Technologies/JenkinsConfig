@@ -16,7 +16,7 @@ example: SetStream.exe c:\temp\config.xml "Temp Fix"
 
 Note: I setup at least two jobs.
 
-![ScreenShot](https://raw.github.com/Digitalroot/Enterprise-Empire-Manager/Screenshots/eem.jpg)
+![ScreenShot](https://raw.github.com/Digitalroot/JenkinsConfig/Screenshots/design.png)
 
 The first one is a configure job which changes the settings of the second job. 
 Use a few batch command steps in my configue job.

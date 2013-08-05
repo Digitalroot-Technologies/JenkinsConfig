@@ -1,7 +1,7 @@
 JenkinsConfig
 =============
 
-Tools used to configure the Jenknis continuous integration server.
+Tools used to configure the [Jenknis](http://jenkins-ci.org/) continuous integration server.
 
 
 ### SetStream.exe
